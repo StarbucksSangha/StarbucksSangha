@@ -4,7 +4,7 @@ layout: default
 title: StarbucksSangha.NET
 published: True
 ---
-## Buddhism has 3 gems...
+## Buddhism has 3 jewels...
 
 <b>The Buddha</b> is our inspiration. Because the Buddha was able to attain peace of mind, we have the confidence we can too.
 
