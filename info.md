@@ -12,7 +12,9 @@ published: True
 
 <b>The Sangha</b>, or the community, is the tough one. Depending on where you live, you may not be able to find a sangha. It is to this problem that this site plans to address itself. We plan on using Starbucks locations and web tools to help you find other people in your area that are or may also be interested in the dharma.
 
+<!--
 More to come...
 
 <div style="float; margin-bottom:25px;"></div>
 <center><font size="-1">DRAFT ONLY - edited - thursday 9/6 </font></center>
+-->
