@@ -1,3 +1,5 @@
-## Welcome...
+# Welcome...
 
-Now is the time... for all good men.
+You'll find stuff here soon.
+
+Till then... use our Twitter page.
