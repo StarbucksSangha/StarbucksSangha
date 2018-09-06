@@ -13,8 +13,3 @@ published: True
 <b>The Sangha</b>, or the community, is the tough one. You may not be able to find a sangha near you. Since virtually everyone on earth has a Starbucks near them, the idea is to think of Starbucks as our sangha.
 
 More to come...
-<!--
-
-<div style="float; margin-bottom:25px;"></div>
-<center><font size="-1">DRAFT ONLY - edited - thursday 9/6 </font></center>
--->
