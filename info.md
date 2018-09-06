@@ -15,4 +15,5 @@ published: True
 More to come...
 
 <div style="float; margin-bottom:25px;"></div>
-<font size="-1">DRAFT - last edit - Thursday 9/6</font>
+<font size="-1">DRAFT - last edit - Thursday 9/6 </font>
+<font size="-1"><a href="https://tlk.io/sangha" target="_blank">also waiting on chat modification</a></font>
