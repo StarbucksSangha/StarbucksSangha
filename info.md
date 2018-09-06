@@ -4,8 +4,6 @@ layout: default
 title: StarbucksSangha.NET info
 published: True
 ---
-<font size="-1">a/o 9/6 - This document is just in the beginning rough draft phase.</font>
-
 ## Buddhism has 3 gems...
 
 <b>The Buddha</b> is your inspiration. Because the Buddha was albe to attain peace of mind, we have the confidence we can too.
@@ -15,3 +13,6 @@ published: True
 <b>The Sangha</b>, or the community. This is the tough one. Depending on where you live, you may not be able to find a sangha. It is to this problem that this site plans to address. We plan on using Starbucks locations to help you find other people in your area that may also be interested in the dharma.
 
 More to come...
+
+<div style="float; margin-bottom:25px;"></div>
+<font size="-1">DRAFT - last edit - Thursday 9/6</font>
