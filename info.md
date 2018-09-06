@@ -15,4 +15,4 @@ published: True
 More to come...
 
 <div style="float; margin-bottom:25px;"></div>
-<font size="-1">DRAFT - last edit - Thursday 9/6 </font>
+<center><font size="-1">DRAFT ONLY - edited - thursday 9/6 </font></center>
