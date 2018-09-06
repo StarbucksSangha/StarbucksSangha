@@ -1,7 +1,7 @@
 ---
 permalink: /info/
 layout: default
-title: StarbucksSangha.NET info
+title: StarbucksSangha.NET
 published: True
 ---
 ## Buddhism has 3 gems...
