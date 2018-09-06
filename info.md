@@ -6,7 +6,7 @@ published: True
 ---
 # Welcome...
 
-We're not quite up and runnin yet.
+We're not quite up and running yet.
 
 But we will be soon.
 
