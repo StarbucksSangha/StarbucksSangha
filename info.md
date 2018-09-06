@@ -4,6 +4,10 @@ layout: default
 title: StarbucksSangha.NET info
 published: True
 ---
-# Info
+# Welcome...
 
-Coming soon...
+We're not quite up and runnin yet.
+
+But we will be soon.
+
+Enjoy life!
