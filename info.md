@@ -12,4 +12,4 @@ published: True
 
 <b>The Sangha</b>, or the community, can be a tough one. You may not have been able to find a sangha near you. Virtually everyone on earth has a Starbucks near them. Why not turn Starbucks into your sangha?
 
-More to come...
+More to come... soon.
