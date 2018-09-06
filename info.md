@@ -6,7 +6,7 @@ published: True
 ---
 ## Buddhism has 3 gems...
 
-<b>The Buddha</b> is your inspiration. Because the Buddha was albe to attain peace of mind, we have the confidence we can too.
+<b>The Buddha</b> is your inspiration. Because the Buddha was able to attain peace of mind, we have the confidence we can too.
 
 <b>The Dharma</b>, or teachings, used to be hard to find. But... with the advent of the internet you can find [texts](https://www.dhammatalks.org/suttas/index.html){:target="_blank"} and [talks](https://www.dhammatalks.org/mp3_collections_index.html){:target="_blank"} so that you don't have to go to foreign lands to have access to the teachings. This site & it's tweets will provide you with links to both texts and talks so that you will have access to the dharma.
 
