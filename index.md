@@ -1,5 +1,3 @@
 # Welcome...
 
-You'll find stuff here soon.
-
-Till then... use our Twitter page.
+Click the icon below for now.
