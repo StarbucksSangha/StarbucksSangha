@@ -4,10 +4,8 @@ layout: default
 title: StarbucksSangha.NET info
 published: True
 ---
-# Welcome...
+Buddhism has 3 gems...
+- the Buddha
+- the dharma
+- the sangha
 
-We're not quite up and running yet.
-
-But we will be soon.
-
-Enjoy life!
