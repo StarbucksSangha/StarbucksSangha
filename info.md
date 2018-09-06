@@ -12,5 +12,4 @@ published: True
 
 <b>The Dharma</b>, or teachings, used to be hard to find. But... with the advent of the internet you can find texts and talks so that you don't have to go to tibet.
 
-<b>The Sangha</b>, or the community. This is the tough one. Depending on where you live, you may not be able to find a sangha.
-
+<b>The Sangha</b>, or the community. This is the tough one. Depending on where you live, you may not be able to find a sangha. It is to this problem that this site plans to address.
