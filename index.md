@@ -1,5 +1,5 @@
 ---
-permalink: /index/
+permalink: /
 layout: default
 title: StarbucksSangha.NET
 published: True
