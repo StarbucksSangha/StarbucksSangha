@@ -4,7 +4,7 @@ layout: default
 title: StarbucksSangha.NET
 published: True
 ---
-## The three jewels...
+# The three jewels...
 
 <b>The Buddha</b> (awakened one) is an inspiration. Because he (Siddhārtha Gautama) was able to attain peace of mind, we have the confidence we can too.
 
