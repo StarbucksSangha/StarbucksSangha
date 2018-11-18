@@ -10,10 +10,4 @@ published: True
 
 <b>The Dharma</b> (teachings) used to be hard to find. With the advent of the internet you can now find [talks](https://www.dhammatalks.org/mp3_collections_index.html){:target="_blank"} and [texts](https://www.dhammatalks.org/suttas/index.html){:target="_blank"} without traveling to far off lands, or even leaving your home.
 
-<b>The Sangha</b> (community) can be more difficult. You may not have a traditional sangha near you, but I bet you have a [Starbucks near you](https://www.starbucks.com/store-locator){:target="_blank"}. Why not learn to use it as your sangha.
-
-<!--
-<p><B><i>Why not use your local Starbucks as your sangha?</i></b></p>
--->
-
-<p>Are you a <a href="https://webulite.com" target="_blank">webulite</a> ???</p>
+<b>The Sangha</b> (community) can be more difficult. You may not have a traditional sangha near you, but I bet you have a [Starbucks near you](https://www.starbucks.com/store-locator){:target="_blank"}. Why not learn to use it as your sangha. Are you a <a href="https://webulite.com" target="_blank">webulite</a>?
