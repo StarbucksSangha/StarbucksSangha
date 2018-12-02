@@ -4,6 +4,10 @@ layout: default
 title: StarbucksSangha.NET
 published: True
 ---
+<script>
+window.location.href = "https://webulite.com/buddhism";
+</script>  
+
 # The three jewels...
 
 <b>Buddha</b> (awakened one) is an inspiration. Because Siddhārtha Gautama and others were able to attain peace of mind, we have the confidence we can too.
