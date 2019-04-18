@@ -1,4 +1,4 @@
 <script>
-window.location.href = "https://webulite.com/starbuckssangha";
+window.location.href = "https://richgriese.net/buddhism";
 </script>  
 
